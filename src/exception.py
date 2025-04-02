@@ -1,5 +1,5 @@
 import sys          # it as a way for your Python script to talk to the operating system and the Python interprete
-import logging
+from src.logger import logging
 
 def error_message_detail(error, error_detail:sys):
     _,_,exc_tb=error_detail.exc_info()
