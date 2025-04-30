@@ -2,9 +2,8 @@ pandas
 numpy
 seaborn
 matplotlib
-joblib-1.4.2 
-scikit-learn-1.6.1 
 catboost
 xgboost
 dill
+Flask
 -e .
